@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CheatSheet-BSCP-2025/Recomendaciones Examen BSCP/Certificación BSCP.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Certificación BSCP"
+              "title": "README"
             }
           }
         ]
@@ -172,11 +172,13 @@
   },
   "active": "839f7e286eda9ed6",
   "lastOpenFiles": [
+    "vault-obsidian.png",
     "README.md",
+    "CheatSheet-BSCP-2025/11. XXE Injection - XML Entity.md",
+    "CheatSheet-BSCP-2025/Recomendaciones Examen BSCP/Certificación BSCP.md",
     "CheatSheet-BSCP-2025/30. Web Caché Poisoning.md",
     "CheatSheet-BSCP-2025/17. CSRF.md",
     "CheatSheet-BSCP-2025/Passwords List.md",
-    "CheatSheet-BSCP-2025/Recomendaciones Examen BSCP/Certificación BSCP.md",
     "CheatSheet-BSCP-2025/Skills Esentials.md",
     "CheatSheet-BSCP-2025/CookieStealer-Payloads.md",
     "CheatSheet-BSCP-2025/7. Access Control.md",
@@ -194,7 +196,6 @@
     "Pasted image 20250220170618.png",
     "Pasted image 20250220170606.png",
     "Pasted image 20250220170512.png",
-    "Pasted image 20250220170439.png",
     "CheatSheet-BSCP-2025/27. Business Logic Vulnerabilities.md",
     "CheatSheet-BSCP-2025/28. Host Headers Attacks.md",
     "CheatSheet-BSCP-2025/18. CORS.md",
@@ -206,8 +207,6 @@
     "CheatSheet-BSCP-2025/25. HTTP Request Smuggling.md",
     "CheatSheet-BSCP-2025/1. SQLi.md",
     "CheatSheet-BSCP-2025/8. File Upload.md",
-    "CheatSheet-BSCP-2025/2. Authentication.md",
-    "CheatSheet-BSCP-2025/21. SSTI.md",
     "Sin título.canvas",
     "CheatSheet-BSCP-2025",
     "CheatSheet-BSCP-2025/Recomendaciones Examen BSCP"
