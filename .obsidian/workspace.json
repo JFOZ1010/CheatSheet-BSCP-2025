@@ -54,6 +54,18 @@
             }
           },
           {
+            "id": "0c5efdc4d4ac0d03",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "vault-obsidian.png"
+              },
+              "icon": "lucide-image",
+              "title": "vault-obsidian"
+            }
+          },
+          {
             "id": "712aee54c3a48b05",
             "type": "leaf",
             "state": {
@@ -274,19 +286,19 @@
   },
   "active": "daa22ec3fcd7c970",
   "lastOpenFiles": [
-    "Pasted image 20250222223137.png",
-    "Pasted image 20250222223025.png",
-    "Pasted image 20250222222512.png",
-    "Pasted image 20250222220929.png",
-    "Pasted image 20250222220231.png",
-    "Pasted image 20250222220158.png",
-    "Pasted image 20250222213056.png",
-    "Pasted image 20250222212019.png",
-    "Pasted image 20250222211828.png",
-    "Pasted image 20250222210030.png",
-    "Pasted image 20250222205416.png",
-    "CheatSheet-BSCP-2025/13. NO-SQL Injection.md",
+    "vault-obsidian.png",
+    "CheatSheet-BSCP-2025/Pasted image 20250222223137.png",
+    "CheatSheet-BSCP-2025/Pasted image 20250222223025.png",
+    "CheatSheet-BSCP-2025/Pasted image 20250222222512.png",
+    "CheatSheet-BSCP-2025/Pasted image 20250222220929.png",
+    "CheatSheet-BSCP-2025/Pasted image 20250222220231.png",
+    "CheatSheet-BSCP-2025/Pasted image 20250222220158.png",
+    "CheatSheet-BSCP-2025/Pasted image 20250222213056.png",
+    "CheatSheet-BSCP-2025/Pasted image 20250222212019.png",
+    "CheatSheet-BSCP-2025/Pasted image 20250222211828.png",
+    "CheatSheet-BSCP-2025/Pasted image 20250222210030.png",
     "CheatSheet-BSCP-2025/1. SQLi.md",
+    "CheatSheet-BSCP-2025/13. NO-SQL Injection.md",
     "CheatSheet-BSCP-2025/16. XSS.md",
     "CheatSheet-BSCP-2025/2. Authentication.md",
     "CheatSheet-BSCP-2025/27. Business Logic Vulnerabilities.md",
