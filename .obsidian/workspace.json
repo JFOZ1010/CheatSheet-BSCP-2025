@@ -4,11 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "83192c70327d26ee",
+        "id": "066ae90d0d3e61a8",
         "type": "tabs",
         "children": [
           {
-            "id": "839f7e286eda9ed6",
+            "id": "9097659052a0cff9",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CheatSheet-BSCP-2025/Recomendaciones Examen BSCP/Certificación BSCP.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Certificación BSCP"
+            }
+          },
+          {
+            "id": "344840b7eb17605d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CheatSheet-BSCP-2025/CookieStealer-Payloads.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "CookieStealer-Payloads"
+            }
+          },
+          {
+            "id": "daa22ec3fcd7c970",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,21 +54,77 @@
             }
           },
           {
-            "id": "81635054dcbc5e80",
+            "id": "712aee54c3a48b05",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "CheatSheet-BSCP-2025/1. SQLi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "1. SQLi"
+            }
+          },
+          {
+            "id": "7e40e91545c53231",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CheatSheet-BSCP-2025/Skills Esentials.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Skills Esentials"
+            }
+          },
+          {
+            "id": "9b2eb7cfe1659363",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CheatSheet-BSCP-2025/23. JWT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "23. JWT"
+            }
+          },
+          {
+            "id": "57a2ba7cae26133e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CheatSheet-BSCP-2025/24. Insecure Deserialization.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "24. Insecure Deserialization"
+            }
+          },
+          {
+            "id": "a0dbfdf50478140b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CheatSheet-BSCP-2025/26. Prototype Pollution Attacks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "26. Prototype Pollution Attacks"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5
+    "width": 279.5
   },
   "right": {
     "id": "e9ff101e7bca98af",
@@ -109,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Payloads/16. XSS.md",
+                "file": "CheatSheet-BSCP-2025/30. Web Caché Poisoning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +207,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de 16. XSS"
+              "title": "Enlaces entrantes de 30. Web Caché Poisoning"
             }
           },
           {
@@ -181,48 +269,53 @@
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "github-sync:Sync with Remote": false,
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "81635054dcbc5e80",
+  "active": "daa22ec3fcd7c970",
   "lastOpenFiles": [
+    "Pasted image 20250222223137.png",
+    "Pasted image 20250222223025.png",
+    "Pasted image 20250222222512.png",
+    "Pasted image 20250222220929.png",
+    "Pasted image 20250222220231.png",
+    "Pasted image 20250222220158.png",
+    "Pasted image 20250222213056.png",
+    "Pasted image 20250222212019.png",
+    "Pasted image 20250222211828.png",
+    "Pasted image 20250222210030.png",
+    "Pasted image 20250222205416.png",
+    "CheatSheet-BSCP-2025/13. NO-SQL Injection.md",
     "CheatSheet-BSCP-2025/1. SQLi.md",
-    "README.md",
-    "vault-obsidian.png",
-    "CheatSheet-BSCP-2025/11. XXE Injection - XML Entity.md",
-    "CheatSheet-BSCP-2025/Recomendaciones Examen BSCP/Certificación BSCP.md",
-    "CheatSheet-BSCP-2025/30. Web Caché Poisoning.md",
-    "CheatSheet-BSCP-2025/17. CSRF.md",
-    "CheatSheet-BSCP-2025/Passwords List.md",
-    "CheatSheet-BSCP-2025/Skills Esentials.md",
-    "CheatSheet-BSCP-2025/CookieStealer-Payloads.md",
-    "CheatSheet-BSCP-2025/7. Access Control.md",
-    "CheatSheet-BSCP-2025/6. SSRF.md",
-    "CheatSheet-BSCP-2025/5. Command Injection OS.md",
-    "CheatSheet-BSCP-2025/4. Path Traversal.md",
-    "CheatSheet-BSCP-2025/3. Information Disclosure.md",
-    "CheatSheet-BSCP-2025/2.1 Authorization.md",
-    "CheatSheet-BSCP-2025/Pasted image 20250215113759.png",
-    "Pasted image 20250215113914.png",
-    "Pasted image 20250220170708.png",
-    "Pasted image 20250220170702.png",
-    "Pasted image 20250220170652.png",
-    "Pasted image 20250220170642.png",
-    "Pasted image 20250220170618.png",
-    "Pasted image 20250220170606.png",
-    "Pasted image 20250220170512.png",
-    "CheatSheet-BSCP-2025/27. Business Logic Vulnerabilities.md",
-    "CheatSheet-BSCP-2025/28. Host Headers Attacks.md",
-    "CheatSheet-BSCP-2025/18. CORS.md",
-    "CheatSheet-BSCP-2025/29. GraphQL Vulnerabilities.md",
     "CheatSheet-BSCP-2025/16. XSS.md",
-    "CheatSheet-BSCP-2025/19. DOM Based Vulnerabilities.md",
-    "CheatSheet-BSCP-2025/22. Auth0.md",
-    "CheatSheet-BSCP-2025/26. Prototype Pollution Attacks.md",
-    "CheatSheet-BSCP-2025/25. HTTP Request Smuggling.md",
+    "CheatSheet-BSCP-2025/2. Authentication.md",
+    "CheatSheet-BSCP-2025/27. Business Logic Vulnerabilities.md",
+    "CheatSheet-BSCP-2025/11. XXE Injection - XML Entity.md",
+    "CheatSheet-BSCP-2025/30. Web Caché Poisoning.md",
+    "CheatSheet-BSCP-2025/9. Web Cache Deception.md",
+    "CheatSheet-BSCP-2025/CookieStealer-Payloads.md",
+    "CheatSheet-BSCP-2025/Skills Esentials.md",
+    "CheatSheet-BSCP-2025/Passwords List.md",
+    "CheatSheet-BSCP-2025/10. API Testing.md",
     "CheatSheet-BSCP-2025/8. File Upload.md",
+    "CheatSheet-BSCP-2025/5. Command Injection OS.md",
+    "CheatSheet-BSCP-2025/Recomendaciones Examen BSCP/Certificación BSCP.md",
+    "CheatSheet-BSCP-2025/17. CSRF.md",
+    "CheatSheet-BSCP-2025/7. Access Control.md",
+    "CheatSheet-BSCP-2025/2.1 Authorization.md",
+    "CheatSheet-BSCP-2025/24. Insecure Deserialization.md",
+    "CheatSheet-BSCP-2025/28. Host Headers Attacks.md",
+    "CheatSheet-BSCP-2025/21. SSTI.md",
+    "Sin título 1.canvas",
     "Sin título.canvas",
+    "CheatSheet-BSCP-2025/22. Auth0.md",
+    "CheatSheet-BSCP-2025/29. GraphQL Vulnerabilities.md",
+    "CheatSheet-BSCP-2025/25. HTTP Request Smuggling.md",
+    "CheatSheet-BSCP-2025/26. Prototype Pollution Attacks.md",
+    "CheatSheet-BSCP-2025/renombrar_imagenes.sh",
+    "CheatSheet-BSCP-2025/images",
+    "images",
+    "carpeta sin título",
     "CheatSheet-BSCP-2025",
     "CheatSheet-BSCP-2025/Recomendaciones Examen BSCP"
   ]
