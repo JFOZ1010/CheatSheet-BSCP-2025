@@ -88,7 +88,7 @@ Si su carga útil todavía se bloquea después de la codificación HTML, puede e
 <a href="javascript&#00000000000058;alert(1)">Click me</a>
 ```
 
-## Obfuscación a través de la codificación XML
+## Obfuscación a través de la codificación XML SQLi
 
 XML está estrechamente relacionado con HTML y también admite la codificación de caracteres usando las mismas secuencias de escape numéricas. Esto le permite incluir caracteres especiales en el contenido de texto de los elementos sin romper la sintaxis, que puede ser útil cuando se prueba para XSS a través de la entrada basada en XML, por ejemplo.
 
