@@ -113,12 +113,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CheatSheet-BSCP-2025/24. Insecure Deserialization.md",
+                "file": "CheatSheet-BSCP-2025/25. HTTP Request Smuggling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "24. Insecure Deserialization"
+              "title": "25. HTTP Request Smuggling"
             }
           },
           {
@@ -148,9 +148,22 @@
               "icon": "lucide-file",
               "title": "16. XSS"
             }
+          },
+          {
+            "id": "6b529fa76b4e0a72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CheatSheet-BSCP-2025/24. Insecure Deserialization.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "24. Insecure Deserialization"
+            }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -298,30 +311,32 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "57a2ba7cae26133e",
+  "active": "9097659052a0cff9",
   "lastOpenFiles": [
-    "CheatSheet-BSCP-2025/26. Prototype Pollution Attacks.md",
+    "Pasted image 20250224172638.png",
+    "CheatSheet-BSCP-2025/25. HTTP Request Smuggling.md",
+    "Pasted image 20250224165729.png",
+    "Pasted image 20250224162636.png",
+    "CheatSheet-BSCP-2025/CookieStealer-Payloads.md",
     "CheatSheet-BSCP-2025/24. Insecure Deserialization.md",
+    "Pasted image 20250224132212.png",
+    "CheatSheet-BSCP-2025/Recomendaciones Examen BSCP/Certificación BSCP.md",
+    "Pasted image 20250224105606.png",
+    "Pasted image 20250224105538.png",
+    "Pasted image 20250224073036.png",
+    "CheatSheet-BSCP-2025/26. Prototype Pollution Attacks.md",
     "Pasted image 20250223212104.png",
     "CheatSheet-BSCP-2025/16. XSS.md",
-    "CheatSheet-BSCP-2025/Recomendaciones Examen BSCP/Certificación BSCP.md",
     "CheatSheet-BSCP-2025/1. SQLi.md",
     "Pasted image 20250223135204.png",
     "Pasted image 20250223135155.png",
     "Pasted image 20250223115340.png",
-    "Pasted image 20250223003206.png",
-    "Pasted image 20250223003028.png",
-    "Pasted image 20250223003025.png",
-    "Pasted image 20250222233559.png",
-    "vault-obsidian.png",
-    "CheatSheet-BSCP-2025/Pasted image 20250222223137.png",
     "CheatSheet-BSCP-2025/13. NO-SQL Injection.md",
     "CheatSheet-BSCP-2025/2. Authentication.md",
     "CheatSheet-BSCP-2025/27. Business Logic Vulnerabilities.md",
     "CheatSheet-BSCP-2025/11. XXE Injection - XML Entity.md",
     "CheatSheet-BSCP-2025/30. Web Caché Poisoning.md",
     "CheatSheet-BSCP-2025/9. Web Cache Deception.md",
-    "CheatSheet-BSCP-2025/CookieStealer-Payloads.md",
     "CheatSheet-BSCP-2025/Skills Esentials.md",
     "CheatSheet-BSCP-2025/Passwords List.md",
     "CheatSheet-BSCP-2025/10. API Testing.md",
@@ -336,7 +351,6 @@
     "Sin título.canvas",
     "CheatSheet-BSCP-2025/22. Auth0.md",
     "CheatSheet-BSCP-2025/29. GraphQL Vulnerabilities.md",
-    "CheatSheet-BSCP-2025/25. HTTP Request Smuggling.md",
     "CheatSheet-BSCP-2025/renombrar_imagenes.sh",
     "CheatSheet-BSCP-2025/images",
     "images",
