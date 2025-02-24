@@ -77,16 +77,27 @@ Este me interesa:
 
 * https://bscpcheatsheet.gitbook.io/exam/recommended_labs
 
-### Extensions:
+## Extensiones de Burp
 
-- param miner
-- http smuggler
-- Ysoserial en burp o tenerlo listo en el Github Codespaces (Github Pro)
+A medida que vas avanzando en la academia, te van introduciendo ciertas extensiones que son útiles para ciertos casos. Os dejo un resumen de aquellas que más me han gustado:
+
+- [Param Miner](https://portswigger.net/bappstore/17d2949a985c4b7ca092728dba871943) – fuzzer de parámetros y cabeceras ocultas.
+- [HTTP Request Smuggler](https://portswigger.net/bappstore/aaaa60ef945341e8a450217a54a11646) – contiene distintos vectores de Request Smuggling que puedes usar.
+- [Agartha](https://github.com/volkandindar/agartha) – ésta no está en la academia, pero la recomiendo porque te proporciona un montón de payloads para LFI, Inyección de Comandos, SQL Injection, con bypass de WAFS incluido. Se puede, por ejemplo, generar los payloads y meterlos en el Intruder.
+- [Turbo Intruder](https://portswigger.net/bappstore/9abaa233088242e8be252cd4ff534988) – útil para cuando tengas que jugar con el timing (race conditions) o quieras mandar requests parcialmente (por ejemplo solo mandar los headers y tras X segundos, mandar el body).
+- [Content Type Converter](https://portswigger.net/bappstore/db57ecbe2cb7446292a94aa6181c9278) – pasar el cuerpo de la petición de XML a JSON y viceversa de manera automatizada.
+- [JWT Editor](https://portswigger.net/bappstore/26aaa5ded2f74beea19e2ed8345a93dd) – útil para cuando se trata con tokens JWT, y la ext: JWT Web Tokens
+- [Server-Side Prototype Pollution Scanner](https://portswigger.net/blog/server-side-prototype-pollution-scanner) – como su nombre indica, útil para Server-Side Prototype Pollution.
+- [DOM Invader](https://portswigger.net/burp/documentation/desktop/tools/dom-invader) – viene integrado con el navegador de Burp, y es útil para encontrar Client-Side Prototype Pollution.
+- [Java Deserialization Scanner](https://portswigger.net/bappstore/228336544ebe4e68824b5146dbbd93ae) – puedes cargarle el .jar del ysoserial y automatizar el tedioso procedimiento de explotar una deserialización en Java. **(corre con java jdk 8) y tener ysoserial clonado localmente, dejar la ruta en las configs.**
+- [Hackvertor](https://portswigger.net/bappstore/65033cbd2c344fbabe57ac060b5dd100) – herramienta que soporta varios tipos de encodings y escapes (entidades HTML5, hex, octal, unicode, etc.)
+
+#### Tener presente para algun ataque SSRF el hecho de que se debe mantener el puerto: `6566`
+
 - **SSRF localhost:6566 o 192.168.0.[burp intruder]**
-- JWT Web Tokens - Pendiente instalar again - JWT Editor
-
 ### Burp Scan
 
+* Deep scan importante también
 - Full domain
 - Scan Insertion Points on repeater
 
