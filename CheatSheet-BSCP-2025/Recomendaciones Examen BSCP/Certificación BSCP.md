@@ -152,4 +152,4 @@ ffuf -c -w ./burp-labs-wordlist.txt -u https://TARGET.web-security-academy.net/F
 [Deserialization](https://github.com/botesjuan/Burp-Suite-Certified-Practitioner-Exam-Study?tab=readme-ov-file#deserialization)  
 [OS Command Injection](https://github.com/botesjuan/Burp-Suite-Certified-Practitioner-Exam-Study?tab=readme-ov-file#os-command-injection)
 
-
+![](Pasted%20image%2020250224172638.png)
