@@ -81,6 +81,8 @@ Este me interesa:
 
 A medida que vas avanzando en la academia, te van introduciendo ciertas extensiones que son útiles para ciertos casos. Os dejo un resumen de aquellas que más me han gustado:
 
+![](Pasted%20image%2020250224185033.png)
+
 - [Param Miner](https://portswigger.net/bappstore/17d2949a985c4b7ca092728dba871943) – fuzzer de parámetros y cabeceras ocultas.
 - [HTTP Request Smuggler](https://portswigger.net/bappstore/aaaa60ef945341e8a450217a54a11646) – contiene distintos vectores de Request Smuggling que puedes usar.
 - [Agartha](https://github.com/volkandindar/agartha) – ésta no está en la academia, pero la recomiendo porque te proporciona un montón de payloads para LFI, Inyección de Comandos, SQL Injection, con bypass de WAFS incluido. Se puede, por ejemplo, generar los payloads y meterlos en el Intruder.
@@ -92,7 +94,7 @@ A medida que vas avanzando en la academia, te van introduciendo ciertas extensio
 - [Java Deserialization Scanner](https://portswigger.net/bappstore/228336544ebe4e68824b5146dbbd93ae) – puedes cargarle el .jar del ysoserial y automatizar el tedioso procedimiento de explotar una deserialización en Java. **(corre con java jdk 8) y tener ysoserial clonado localmente, dejar la ruta en las configs.**
 - [Hackvertor](https://portswigger.net/bappstore/65033cbd2c344fbabe57ac060b5dd100) – herramienta que soporta varios tipos de encodings y escapes (entidades HTML5, hex, octal, unicode, etc.)
 
-#### Tener presente para algun ataque SSRF el hecho de que se debe mantener el puerto: `6566`
+#### Tener presente para algún ataque SSRF el hecho de que se debe mantener el puerto: `6566`
 
 - **SSRF localhost:6566 o 192.168.0.[burp intruder]**
 ### Burp Scan
