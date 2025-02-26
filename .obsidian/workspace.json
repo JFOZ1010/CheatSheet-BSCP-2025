@@ -59,12 +59,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CheatSheet-BSCP-2025/1. SQLi.md",
+                "file": "CheatSheet-BSCP-2025/7. Access Control.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. SQLi"
+              "title": "7. Access Control"
             }
           },
           {
@@ -87,12 +87,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CheatSheet-BSCP-2025/16. XSS.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "16. XSS"
+              "title": "README"
             }
           },
           {
@@ -101,12 +101,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CheatSheet-BSCP-2025/15. Clickjacking.md",
+                "file": "CheatSheet-BSCP-2025/7. Access Control.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "15. Clickjacking"
+              "title": "7. Access Control"
             }
           },
           {
@@ -138,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -286,22 +286,33 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "712aee54c3a48b05",
+  "active": "57a2ba7cae26133e",
   "lastOpenFiles": [
+    "mi-progreso.png",
+    "README.md",
+    "Pasted image 20250226185215.png",
+    "CheatSheet-BSCP-2025/5. Command Injection OS.md",
+    "CheatSheet-BSCP-2025/Pasted image 20250225183736.png",
+    "CheatSheet-BSCP-2025/Pasted image 20250225115956.png",
+    "CheatSheet-BSCP-2025/Pasted image 20250224185033.png",
+    "CheatSheet-BSCP-2025/Pasted image 20250224172638.png",
+    "CheatSheet-BSCP-2025/Pasted image 20250224165729.png",
+    "CheatSheet-BSCP-2025/Pasted image 20250224162636.png",
+    "CheatSheet-BSCP-2025/Pasted image 20250224132212.png",
+    "CheatSheet-BSCP-2025/Pasted image 20250224105606.png",
     "CheatSheet-BSCP-2025/16. XSS.md",
+    "CheatSheet-BSCP-2025/CookieStealer-Payloads.md",
+    "CheatSheet-BSCP-2025/7. Access Control.md",
+    "CheatSheet-BSCP-2025/Recomendaciones Examen BSCP/Certificación BSCP.md",
+    "CheatSheet-BSCP-2025/19. DOM Based Vulnerabilities.md",
+    "CheatSheet-BSCP-2025/15. Clickjacking.md",
+    "CheatSheet-BSCP-2025/2. Authentication.md",
+    "CheatSheet-BSCP-2025/18. CORS.md",
     "CheatSheet-BSCP-2025/1. SQLi.md",
     "CheatSheet-BSCP-2025/24. Insecure Deserialization.md",
     "CheatSheet-BSCP-2025/Passwords List.md",
-    "Pasted image 20250225183736.png",
-    "CheatSheet-BSCP-2025/CookieStealer-Payloads.md",
     "CheatSheet-BSCP-2025/11. XXE Injection - XML Entity.md",
-    "CheatSheet-BSCP-2025/5. Command Injection OS.md",
-    "CheatSheet-BSCP-2025/15. Clickjacking.md",
-    "CheatSheet-BSCP-2025/2. Authentication.md",
     "CheatSheet-BSCP-2025/Usernames List.md",
-    "Pasted image 20250225115956.png",
-    "CheatSheet-BSCP-2025/7. Access Control.md",
-    "CheatSheet-BSCP-2025/19. DOM Based Vulnerabilities.md",
     "CheatSheet-BSCP-2025/17. CSRF.md",
     "CheatSheet-BSCP-2025/30. Web Caché Poisoning.md",
     "CheatSheet-BSCP-2025/21. SSTI.md",
@@ -310,19 +321,8 @@
     "CheatSheet-BSCP-2025/28. Host Headers Attacks.md",
     "CheatSheet-BSCP-2025/6. SSRF.md",
     "CheatSheet-BSCP-2025/23. JWT.md",
-    "CheatSheet-BSCP-2025/Recomendaciones Examen BSCP/Certificación BSCP.md",
-    "Pasted image 20250224185033.png",
     "CheatSheet-BSCP-2025/9. Web Cache Deception.md",
-    "Pasted image 20250224172638.png",
-    "Pasted image 20250224165729.png",
-    "Pasted image 20250224162636.png",
-    "Pasted image 20250224132212.png",
-    "Pasted image 20250224105606.png",
-    "Pasted image 20250224105538.png",
-    "Pasted image 20250224073036.png",
     "CheatSheet-BSCP-2025/26. Prototype Pollution Attacks.md",
-    "CheatSheet-BSCP-2025/13. NO-SQL Injection.md",
-    "CheatSheet-BSCP-2025/Skills Esentials.md",
     "Sin título 1.canvas",
     "Sin título.canvas",
     "CheatSheet-BSCP-2025/renombrar_imagenes.sh",
