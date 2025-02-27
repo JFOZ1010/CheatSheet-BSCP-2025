@@ -73,26 +73,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CheatSheet-BSCP-2025/19. DOM Based Vulnerabilities.md",
+                "file": "CheatSheet-BSCP-2025/Usernames List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "19. DOM Based Vulnerabilities"
-            }
-          },
-          {
-            "id": "57a2ba7cae26133e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
+              "title": "Usernames List"
             }
           },
           {
@@ -101,58 +87,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CheatSheet-BSCP-2025/7. Access Control.md",
+                "file": "CheatSheet-BSCP-2025/Passwords List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. Access Control"
-            }
-          },
-          {
-            "id": "abcb6fa2b2841461",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CheatSheet-BSCP-2025/24. Insecure Deserialization.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "24. Insecure Deserialization"
-            }
-          },
-          {
-            "id": "3e6400c0e0586499",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CheatSheet-BSCP-2025/7. Access Control.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "7. Access Control"
+              "title": "Passwords List"
             }
           },
           {
             "id": "37c4050618aac109",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CheatSheet-BSCP-2025/27. Business Logic Vulnerabilities.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "27. Business Logic Vulnerabilities"
-            }
-          },
-          {
-            "id": "ca5f06081782aebe",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -180,17 +124,31 @@
             }
           },
           {
-            "id": "bc3e640a65ce2792",
+            "id": "8afcb9d7d7f83670",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CheatSheet-BSCP-2025/30. Web Caché Poisoning.md",
+                "file": "CheatSheet-BSCP-2025/11. XXE Injection - XML Entity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "30. Web Caché Poisoning"
+              "title": "11. XXE Injection - XML Entity"
+            }
+          },
+          {
+            "id": "703a00176116bd24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CheatSheet-BSCP-2025/16. XSS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "16. XSS"
             }
           }
         ],
@@ -342,24 +300,31 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "7ebaf3838fc438f3",
+  "active": "daa22ec3fcd7c970",
   "lastOpenFiles": [
-    "CheatSheet-BSCP-2025/19. DOM Based Vulnerabilities.md",
-    "CheatSheet-BSCP-2025/CookieStealer-Payloads.md",
+    "CheatSheet-BSCP-2025/7. Access Control.md",
+    "CheatSheet-BSCP-2025/Passwords List.md",
+    "CheatSheet-BSCP-2025/2. Authentication.md",
+    "CheatSheet-BSCP-2025/Usernames List.md",
+    "CheatSheet-BSCP-2025/2.1 Authorization.md",
+    "CheatSheet-BSCP-2025/27. Business Logic Vulnerabilities.md",
+    "README.md",
+    "CheatSheet-BSCP-2025/11. XXE Injection - XML Entity.md",
+    "CheatSheet-BSCP-2025/6. SSRF.md",
+    "CheatSheet-BSCP-2025/30. Web Caché Poisoning.md",
+    "CheatSheet-BSCP-2025/Pasted image 20250227153231.png",
     "CheatSheet-BSCP-2025/Recomendaciones Examen BSCP/Certificación BSCP.md",
+    "CheatSheet-BSCP-2025/16. XSS.md",
+    "CheatSheet-BSCP-2025/24. Insecure Deserialization.md",
+    "CheatSheet-BSCP-2025/CookieStealer-Payloads.md",
+    "CheatSheet-BSCP-2025/19. DOM Based Vulnerabilities.md",
+    "CheatSheet-BSCP-2025/1. SQLi.md",
+    "CheatSheet-BSCP-2025/8. File Upload.md",
     "CheatSheet-BSCP-2025/15. Clickjacking.md",
     "CheatSheet-BSCP-2025/23. JWT.md",
-    "CheatSheet-BSCP-2025/30. Web Caché Poisoning.md",
-    "CheatSheet-BSCP-2025/6. SSRF.md",
     "CheatSheet-BSCP-2025/Pasted image 20250226223433.png",
-    "CheatSheet-BSCP-2025/7. Access Control.md",
-    "CheatSheet-BSCP-2025/27. Business Logic Vulnerabilities.md",
     "Pasted image 20250226220417.png",
     "CheatSheet-BSCP-2025/Pasted image 20250226220543.png",
-    "CheatSheet-BSCP-2025/16. XSS.md",
-    "CheatSheet-BSCP-2025/2. Authentication.md",
-    "CheatSheet-BSCP-2025/1. SQLi.md",
-    "README.md",
     "mi-progreso.png",
     "Pasted image 20250226185215.png",
     "CheatSheet-BSCP-2025/5. Command Injection OS.md",
@@ -367,18 +332,12 @@
     "CheatSheet-BSCP-2025/Pasted image 20250225115956.png",
     "CheatSheet-BSCP-2025/Pasted image 20250224185033.png",
     "CheatSheet-BSCP-2025/Pasted image 20250224172638.png",
-    "CheatSheet-BSCP-2025/Pasted image 20250224165729.png",
     "CheatSheet-BSCP-2025/18. CORS.md",
-    "CheatSheet-BSCP-2025/24. Insecure Deserialization.md",
-    "CheatSheet-BSCP-2025/Passwords List.md",
-    "CheatSheet-BSCP-2025/11. XXE Injection - XML Entity.md",
-    "CheatSheet-BSCP-2025/Usernames List.md",
     "CheatSheet-BSCP-2025/17. CSRF.md",
     "CheatSheet-BSCP-2025/21. SSTI.md",
     "CheatSheet-BSCP-2025/25. HTTP Request Smuggling.md",
     "CheatSheet-BSCP-2025/28. Host Headers Attacks.md",
     "CheatSheet-BSCP-2025/9. Web Cache Deception.md",
-    "CheatSheet-BSCP-2025/26. Prototype Pollution Attacks.md",
     "Sin título 1.canvas",
     "Sin título.canvas",
     "CheatSheet-BSCP-2025/renombrar_imagenes.sh",
