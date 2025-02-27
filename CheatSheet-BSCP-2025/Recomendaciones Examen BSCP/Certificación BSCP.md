@@ -1,39 +1,10 @@
 * Caracteres extraños, polyglots, metodología primera by @andre
 	* Video Examen Practica BSCP Andres Roldan: https://www.youtube.com/watch?v=dGsCA1N1BK0
 
+En cada input puedo probar este polyglot especifico para buscar fallos de sanitización, encoding o simplemente analizar el comportamiento.  
+
 ```
- &&
- 
- ¬
- ÷
- ¢
- “
- ≠
- ~
- ´
-
- 
- ∑
- Ω
- ©
- &
- ||
- |
- ;
- `
-
-
-'
-"
-""
-''
-}}
-#
-%
-&
-?
-';
-''-
+ "'`";:(){}[]<>=\/$!@#%^&*?,.\n\r\t\x00\x1b\x7f\xff\u202e\u202d\u200b
 ```
 
 - [https://micahvandeusen.com/burp-suite-certified-practitioner-exam-review/](https://micahvandeusen.com/burp-suite-certified-practitioner-exam-review/)
