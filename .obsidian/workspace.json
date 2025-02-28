@@ -157,12 +157,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CheatSheet-BSCP-2025/21. SSTI.md",
+                "file": "CheatSheet-BSCP-2025/28. Host Headers Attacks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "21. SSTI"
+              "title": "28. Host Headers Attacks"
             }
           },
           {
@@ -207,7 +207,8 @@
               "title": "21. SSTI"
             }
           }
-        ]
+        ],
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -355,21 +356,21 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "7ebaf3838fc438f3",
+  "active": "b0631dffd54f4b17",
   "lastOpenFiles": [
+    "CheatSheet-BSCP-2025/6. SSRF.md",
+    "CheatSheet-BSCP-2025/Passwords List.md",
+    "CheatSheet-BSCP-2025/Usernames List.md",
     "CheatSheet-BSCP-2025/21. SSTI.md",
     "CheatSheet-BSCP-2025/Recomendaciones Examen BSCP/Certificación BSCP.md",
     "CheatSheet-BSCP-2025/16. XSS.md",
     "CheatSheet-BSCP-2025/1. SQLi.md",
     "CheatSheet-BSCP-2025/7. Access Control.md",
-    "CheatSheet-BSCP-2025/Passwords List.md",
     "CheatSheet-BSCP-2025/2. Authentication.md",
-    "CheatSheet-BSCP-2025/Usernames List.md",
     "CheatSheet-BSCP-2025/2.1 Authorization.md",
     "CheatSheet-BSCP-2025/27. Business Logic Vulnerabilities.md",
     "README.md",
     "CheatSheet-BSCP-2025/11. XXE Injection - XML Entity.md",
-    "CheatSheet-BSCP-2025/6. SSRF.md",
     "CheatSheet-BSCP-2025/30. Web Caché Poisoning.md",
     "CheatSheet-BSCP-2025/Pasted image 20250227153231.png",
     "CheatSheet-BSCP-2025/24. Insecure Deserialization.md",
