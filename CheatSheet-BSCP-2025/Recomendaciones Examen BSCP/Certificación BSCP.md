@@ -7,7 +7,8 @@ En cada input puedo probar este polyglot especifico para buscar fallos de saniti
  "'`";:(){}[]<>=\/$!@#%^&*?,.\n\r\t\x00\x1b\x7f\xff\u202e\u202d\u200b
 
 //PARA POSIBLES SSTI ->
-${{<%[%'"}}%\
+${{<%[%'"}}%\.
+
 <%whoami%> //PARA ruby framework engine templates. 
 
 ```
