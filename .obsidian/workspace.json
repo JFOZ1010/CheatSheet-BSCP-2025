@@ -40,189 +40,21 @@
             }
           },
           {
-            "id": "daa22ec3fcd7c970",
+            "id": "99d0d159d6f61d86",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CheatSheet-BSCP-2025/1. SQLi.md",
+                "file": "CheatSheet-BSCP-2025/25. HTTP Request Smuggling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. SQLi"
+              "title": "25. HTTP Request Smuggling"
             }
           },
           {
-            "id": "712aee54c3a48b05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CheatSheet-BSCP-2025/7. Access Control.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "7. Access Control"
-            }
-          },
-          {
-            "id": "9b2eb7cfe1659363",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CheatSheet-BSCP-2025/Usernames List.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Usernames List"
-            }
-          },
-          {
-            "id": "57ad2f02b8188926",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CheatSheet-BSCP-2025/Passwords List.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Passwords List"
-            }
-          },
-          {
-            "id": "37c4050618aac109",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CheatSheet-BSCP-2025/27. Business Logic Vulnerabilities.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "27. Business Logic Vulnerabilities"
-            }
-          },
-          {
-            "id": "432f14a419964cbc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CheatSheet-BSCP-2025/6. SSRF.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "6. SSRF"
-            }
-          },
-          {
-            "id": "8afcb9d7d7f83670",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CheatSheet-BSCP-2025/11. XXE Injection - XML Entity.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "11. XXE Injection - XML Entity"
-            }
-          },
-          {
-            "id": "703a00176116bd24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CheatSheet-BSCP-2025/16. XSS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "16. XSS"
-            }
-          },
-          {
-            "id": "b0631dffd54f4b17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CheatSheet-BSCP-2025/1. SQLi.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. SQLi"
-            }
-          },
-          {
-            "id": "1ce19723ed72cdc5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CheatSheet-BSCP-2025/21. SSTI.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "21. SSTI"
-            }
-          },
-          {
-            "id": "d944257aa3e60ec0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CheatSheet-BSCP-2025/21. SSTI.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "21. SSTI"
-            }
-          },
-          {
-            "id": "9b2914234b338e77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CheatSheet-BSCP-2025/21. SSTI.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "21. SSTI"
-            }
-          },
-          {
-            "id": "0658b785d042b473",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CheatSheet-BSCP-2025/21. SSTI.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "21. SSTI"
-            }
-          },
-          {
-            "id": "93856b84946b3696",
+            "id": "8b5d8d649bfb6768",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -236,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -384,44 +216,43 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "93856b84946b3696",
+  "active": "8b5d8d649bfb6768",
   "lastOpenFiles": [
-    "CheatSheet-BSCP-2025/30. Web Caché Poisoning.md",
-    "CheatSheet-BSCP-2025/29. GraphQL Vulnerabilities.md",
-    "CheatSheet-BSCP-2025/27. Business Logic Vulnerabilities.md",
-    "CheatSheet-BSCP-2025/9. Web Cache Deception.md",
-    "CheatSheet-BSCP-2025/10. API Testing.md",
-    "CheatSheet-BSCP-2025/18. CORS.md",
-    "CheatSheet-BSCP-2025/28. Host Headers Attacks.md",
-    "CheatSheet-BSCP-2025/12. Race Conditions.md",
-    "CheatSheet-BSCP-2025/15. Clickjacking.md",
-    "CheatSheet-BSCP-2025/17. CSRF.md",
-    "CheatSheet-BSCP-2025/4. Path Traversal.md",
-    "CheatSheet-BSCP-2025/25. HTTP Request Smuggling.md",
-    "CheatSheet-BSCP-2025/21. SSTI.md",
+    "CheatSheet-BSCP-2025/22. Auth0.md",
     "CheatSheet-BSCP-2025/Recomendaciones Examen BSCP/Certificación BSCP.md",
-    "CheatSheet-BSCP-2025/16. XSS.md",
-    "CheatSheet-BSCP-2025/1. SQLi.md",
-    "CheatSheet-BSCP-2025/6. SSRF.md",
-    "CheatSheet-BSCP-2025/Passwords List.md",
-    "CheatSheet-BSCP-2025/Usernames List.md",
-    "CheatSheet-BSCP-2025/7. Access Control.md",
-    "CheatSheet-BSCP-2025/2. Authentication.md",
-    "CheatSheet-BSCP-2025/2.1 Authorization.md",
-    "README.md",
-    "CheatSheet-BSCP-2025/11. XXE Injection - XML Entity.md",
-    "CheatSheet-BSCP-2025/Pasted image 20250227153231.png",
-    "CheatSheet-BSCP-2025/24. Insecure Deserialization.md",
     "CheatSheet-BSCP-2025/CookieStealer-Payloads.md",
+    "CheatSheet-BSCP-2025/17. CSRF.md",
+    "CheatSheet-BSCP-2025/9. Web Cache Deception.md",
+    "CheatSheet-BSCP-2025/25. HTTP Request Smuggling.md",
+    "CheatSheet-BSCP-2025/27. Business Logic Vulnerabilities.md",
+    "CheatSheet-BSCP-2025/30. Web Caché Poisoning.md",
+    "CheatSheet-BSCP-2025/19. DOM Based Vulnerabilities.md",
+    "CheatSheet-BSCP-2025/18. CORS.md",
+    "CheatSheet-BSCP-2025/1. SQLi.md",
+    "CheatSheet-BSCP-2025/16. XSS.md",
+    "Pasted image 20250312163452.png",
+    "CheatSheet-BSCP-2025/2. Authentication.md",
+    "Pasted image 20250312144701.png",
+    "Pasted image 20250312143745.png",
+    "CheatSheet-BSCP-2025/5. Command Injection OS.md",
+    "CheatSheet-BSCP-2025/Passwords List.md",
+    "CheatSheet-BSCP-2025/21. SSTI.md",
+    "CheatSheet-BSCP-2025/29. GraphQL Vulnerabilities.md",
+    "CheatSheet-BSCP-2025/2.1 Authorization.md",
+    "CheatSheet-BSCP-2025/Usernames List.md",
+    "CheatSheet-BSCP-2025/26. Prototype Pollution Attacks.md",
+    "CheatSheet-BSCP-2025/6. SSRF.md",
+    "CheatSheet-BSCP-2025/7. Access Control.md",
+    "CheatSheet-BSCP-2025/12. Race Conditions.md",
+    "CheatSheet-BSCP-2025/10. API Testing.md",
+    "CheatSheet-BSCP-2025/28. Host Headers Attacks.md",
+    "CheatSheet-BSCP-2025/Pasted image 20250227153231.png",
     "CheatSheet-BSCP-2025/Pasted image 20250226223433.png",
     "Pasted image 20250226220417.png",
     "CheatSheet-BSCP-2025/Pasted image 20250226220543.png",
     "mi-progreso.png",
     "Pasted image 20250226185215.png",
     "CheatSheet-BSCP-2025/Pasted image 20250225183736.png",
-    "CheatSheet-BSCP-2025/Pasted image 20250225115956.png",
-    "CheatSheet-BSCP-2025/Pasted image 20250224185033.png",
-    "CheatSheet-BSCP-2025/Pasted image 20250224172638.png",
     "Sin título 1.canvas",
     "Sin título.canvas",
     "CheatSheet-BSCP-2025/renombrar_imagenes.sh",
