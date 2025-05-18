@@ -8,22 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9097659052a0cff9",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CheatSheet-BSCP-2025/Recomendaciones Examen BSCP/Certificación BSCP.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Certificación BSCP"
-            }
-          },
-          {
             "id": "344840b7eb17605d",
             "type": "leaf",
             "pinned": true,
@@ -59,16 +43,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CheatSheet-BSCP-2025/24. Insecure Deserialization.md",
+                "file": "CheatSheet-BSCP-2025/30. Web Caché Poisoning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "24. Insecure Deserialization"
+              "title": "30. Web Caché Poisoning"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -125,7 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5
+    "width": 235.5
   },
   "right": {
     "id": "e9ff101e7bca98af",
@@ -218,15 +202,22 @@
   },
   "active": "48946f8f9aebf438",
   "lastOpenFiles": [
+    "Pasted image 20250518150007.png",
+    "Pasted image 20250518143053.png",
+    "Pasted image 20250518143028.png",
+    "Pasted image 20250518143011.png",
+    "CheatSheet-BSCP-2025/19. DOM Based Vulnerabilities.md",
+    "Pasted image 20250518132841.png",
+    "Pasted image 20250518132741.png",
+    "CheatSheet-BSCP-2025/24. Insecure Deserialization.md",
+    "CheatSheet-BSCP-2025/3. Information Disclosure.md",
     "CheatSheet-BSCP-2025/8. File Upload.md",
     "CheatSheet-BSCP-2025/Pasted image 20250503122226.png",
-    "CheatSheet-BSCP-2025/24. Insecure Deserialization.md",
     "CheatSheet-BSCP-2025/1. SQLi.md",
     "CheatSheet-BSCP-2025/2. Authentication.md",
     "CheatSheet-BSCP-2025/Passwords List.md",
     "CheatSheet-BSCP-2025/Usernames List.md",
     "CheatSheet-BSCP-2025/16. XSS.md",
-    "CheatSheet-BSCP-2025/19. DOM Based Vulnerabilities.md",
     "CheatSheet-BSCP-2025/Pasted image 20250503092850.png",
     "CheatSheet-BSCP-2025/Recomendaciones Examen BSCP/Certificación BSCP.md",
     "CheatSheet-BSCP-2025/CookieStealer-Payloads.md",
@@ -247,12 +238,6 @@
     "CheatSheet-BSCP-2025/23. JWT.md",
     "CheatSheet-BSCP-2025/30. Web Caché Poisoning.md",
     "CheatSheet-BSCP-2025/9. Web Cache Deception.md",
-    "CheatSheet-BSCP-2025/28. Host Headers Attacks.md",
-    "CheatSheet-BSCP-2025/Pasted image 20250404175957.png",
-    "CheatSheet-BSCP-2025/Pasted image 20250330133104.png",
-    "mi-progreso.png",
-    "CheatSheet-BSCP-2025/Pasted image 20250327103635.png",
-    "CheatSheet-BSCP-2025/Pasted image 20250314165344.png",
     "Sin título 1.canvas",
     "Sin título.canvas",
     "CheatSheet-BSCP-2025/renombrar_imagenes.sh",
