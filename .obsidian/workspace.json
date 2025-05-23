@@ -22,21 +22,8 @@
               "icon": "lucide-file",
               "title": "CookieStealer-Payloads"
             }
-          },
-          {
-            "id": "7e64e591e15db809",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "vault-obsidian.png"
-              },
-              "icon": "lucide-image",
-              "title": "vault-obsidian"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,10 +171,8 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "7e64e591e15db809",
+  "active": "344840b7eb17605d",
   "lastOpenFiles": [
-    "CheatSheet-BSCP-2025/21. SSTI.md",
-    "mi-progreso.png",
     "CheatSheet-BSCP-2025/Pasted image 20250518182224.png",
     "CheatSheet-BSCP-2025/Pasted image 20250518182049.png",
     "CheatSheet-BSCP-2025/Pasted image 20250518182031.png",
@@ -197,6 +182,9 @@
     "CheatSheet-BSCP-2025/Pasted image 20250518175325.png",
     "CheatSheet-BSCP-2025/Pasted image 20250518174846.png",
     "CheatSheet-BSCP-2025/Pasted image 20250518174503.png",
+    "CheatSheet-BSCP-2025/Pasted image 20250518174215.png",
+    "CheatSheet-BSCP-2025/Pasted image 20250518173836.png",
+    "CheatSheet-BSCP-2025/21. SSTI.md",
     "CheatSheet-BSCP-2025/images.zip",
     "README.md",
     "CheatSheet-BSCP-2025/26. Prototype Pollution Attacks.md",
@@ -223,7 +211,6 @@
     "CheatSheet-BSCP-2025/29. GraphQL Vulnerabilities.md",
     "Sin título.md",
     "CheatSheet-BSCP-2025/18. CORS.md",
-    "CheatSheet-BSCP-2025/6. SSRF.md",
     "Sin título 1.canvas",
     "Sin título.canvas",
     "CheatSheet-BSCP-2025/renombrar_imagenes.sh",
